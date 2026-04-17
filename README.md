@@ -33,6 +33,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Keyence PLC](https://img.shields.io/badge/Keyence%20PLC-FF6600?logo=keyence&logoColor=white)
 
 </div>
 
