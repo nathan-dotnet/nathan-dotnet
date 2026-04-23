@@ -80,7 +80,7 @@
     🤝 I'm open to collaborating on Projects.
   </li>
   <li>
-    ✉️ You can contact me at <a href="mailto:nathaniellucero03@gmail.com">nathaniellucero03@gmail.com</a>
+    ✉️ You can contact me at <a href="mailto:nathaniellucero.dev@gmail.com">nathaniellucero.dev@gmail.com</a>
   </li>
 </ul>
 
