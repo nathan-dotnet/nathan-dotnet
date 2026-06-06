@@ -85,20 +85,13 @@
 </ul>
 
 <h2>Profile Analysis</h2>
-<p align="center">
-      <a href="https://github.com/nathan-dotnet">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-dotnet&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
-    </a>
-</p>
+
 <p align="center">
   <a href="https://github.com/nathan-dotnet">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathan-dotnet&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/nathan-dotnet">
-    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=nathan-dotnet&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
-  </a>
   <a href="https://github.com/nathan-dotnet">
     <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=nathan-dotnet&hide_border=true&theme=dark" alt="nathan-dotnet" />
   </a>
